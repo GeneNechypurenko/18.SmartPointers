@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.UniquePtr/01.UniquePtr.vcxproj" Id="2a8a375b-f51e-42bb-8b57-dcad909761f0" />
+  <Project Path="02.SharedPtr/02.SharedPtr.vcxproj" Id="5e19cd31-c981-4f25-a981-01670a0e21fc" />
+  <Project Path="HomeWork38/HomeWork38.vcxproj" Id="b448f1fe-6b29-4c48-9927-175be9495bf5" />
+</Solution>
